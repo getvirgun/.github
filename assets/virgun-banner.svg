@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="440" viewBox="0 0 1440 440">
+<title>Virgun — One post. More reach.</title>
+<desc>Social media publishing and automation for creators, teams and AI agents.</desc>
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F6FBFF"/><stop offset="1" stop-color="#EAF5FF"/></linearGradient>
+<clipPath id="frame"><rect width="1440" height="440" rx="28"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1440" height="440" fill="url(#sky)"/>
+<circle cx="1390" cy="50" r="260" fill="#E0F0FF"/>
+<circle cx="1390" cy="50" r="180" fill="#D2E9FF"/>
+<circle cx="1390" cy="50" r="100" fill="#C4E2FF"/>
+<path d="M1050 440 Q1210 260 1440 320" fill="none" stroke="#D2E9FF" stroke-width="48"/>
+<g transform="translate(72 126) scale(.184)">
+<rect width="1024" height="1024" rx="232" fill="#009DFD"/>
+<path fill="#fff" d="M234 391.1L590.6 301.6A74.5 74.5 0 0 1 683.2 373.8L683.2 516.8A68.3 68.3 0 0 1 629.4 583.6L478 616.4A38.2 38.2 0 0 0 447.9 653.7L447.9 742.1A63.7 63.7 0 0 1 324.2 763.7A1064 1064 0 0 0 190.7 508.2A75.6 75.6 0 0 1 234 391.1Z
+    M476.8 419.1C455.6 417.8 440.8 438.4 438.9 471.5C436.9 504.6 449.3 526.8 470.4 528C491.6 529.2 506.4 508.7 508.4 475.6C510.3 442.4 497.9 420.3 476.8 419.1Z
+    M583.1 398.8C561.7 397.7 547.1 418.7 545.3 453.3C543.6 487.8 555.9 510.2 577.3 511.3C598.7 512.4 613.3 491.4 615 456.8C616.8 422.2 604.5 399.8 583.1 398.8Z
+    M725.2 341.6L797.5 276.3A30.7 30.7 0 0 1 838.6 321.9L766.3 387.2A30.7 30.7 0 0 1 725.2 341.6Z
+    M749 431.3L847.6 431.3A31.9 31.9 0 0 1 847.6 495L749 495A31.9 31.9 0 0 1 749 431.3Z
+    M760.1 538.7L827 601.6A30.4 30.4 0 0 1 785.3 645.9L718.5 583A30.4 30.4 0 0 1 760.1 538.7Z"/>
+</g>
+<text x="304" y="150" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" letter-spacing="4" fill="#54738D">VIRGUN</text>
+<text x="300" y="225" font-family="Arial,Helvetica,sans-serif" font-size="60" font-weight="700" letter-spacing="-2" fill="#0E2438">One post. More reach.</text>
+<text x="304" y="275" font-family="Arial,Helvetica,sans-serif" font-size="27" fill="#476278">Social media publishing &amp; automation.</text>
+<text x="304" y="322" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#54738D">For creators, teams and AI agents.</text>
+</g>
+</svg>
